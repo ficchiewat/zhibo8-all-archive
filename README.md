@@ -1,2 +1,14 @@
 # zhibo8-all-archive
-HTML page archive and documentation
+
+页面文件管理仓库
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
